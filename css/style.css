@@ -11,7 +11,7 @@ ul {
     display: flex;
     justify-content: space-around;
 }
-header git a {
+header a {
     color: white;
     text-decoration: none;
     text-transform: uppercase;
